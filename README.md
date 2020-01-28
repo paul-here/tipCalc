@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.amazonaws.com/img0.recordit.co/hB12aQLeVJ.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1580185372&Signature=BXWlTHBeq48nu4iONJuKCTq3U%2Bk%3D' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/hB12aQLeVJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](http://www.recordit.co/).
 
 ## Notes
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Whipp
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
